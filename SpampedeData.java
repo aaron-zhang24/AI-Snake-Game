@@ -9,7 +9,7 @@ import java.util.Queue;
  * The "model" in MVC that is responsible for storing all the data for the
  * board.
  * 
- * @author CS60 instructors
+ * @author CS60 instructors - edited by Aaron Zhang and Advik Mareedu as part of Homework 10
  */
 class SpampedeData {
 	/**
