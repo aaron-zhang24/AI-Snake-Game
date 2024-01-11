@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent;
  * deciding how to move the snake, as well as handling keystrokes and
  * controlling the timesteps that move the snake forward.
  * 
- * @author CS60 instructors
+ * @author CS60 instructors - edited by Aaron Zhang and Advik Mareedu as part of Homework 10
  */
 public class SpampedeBrain extends SpampedeBrainParent {
 
